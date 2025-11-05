@@ -43,3 +43,8 @@
 let son= 6;
 son++;
 console.log(son);
+
+//2_misol
+let a=5
+let b=6
+console.log(a+b);
